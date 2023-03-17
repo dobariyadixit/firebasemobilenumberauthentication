@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594924074628",
+    "project_id": "mobilenumberauthenticati-e62f7",
+    "storage_bucket": "mobilenumberauthenticati-e62f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594924074628:android:1fea1d53f56e4d195174d1",
+        "android_client_info": {
+          "package_name": "com.firebase.mobile.authentication.firebasemobilenumberauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594924074628-np2s3kslrc21g0v7ghr5l2lpfaq7m6mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD61RHQfBxgHWL-B3bzssH3FjlK7uXmOio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594924074628-np2s3kslrc21g0v7ghr5l2lpfaq7m6mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
